@@ -1,0 +1,11 @@
+{
+  "name": "simple_server_http_methods",
+  "version": "1.0.0",
+  "description": "Simple HTTP Server with routes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
